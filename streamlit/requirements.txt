@@ -11,3 +11,4 @@ uvicorn==0.17.4
 pymongo[srv]
 dnspython
 motor
+altair==4.2.2
